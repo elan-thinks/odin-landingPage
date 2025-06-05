@@ -294,7 +294,7 @@ img:hover {
   flex-direction: column;
   justify-content: center;
   padding: 6% 2%;
-  background-image: url("./images/page3.png");
+  background-image: url("../images/page3.png");
   background-color: #ebe8e8;
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
